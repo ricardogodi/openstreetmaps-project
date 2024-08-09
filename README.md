@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview (Access to Full Repository Available Upon Request)
 
 ## Description
 This project focuses on the backend operations of a navigation system, similar to popular navigation apps, but tailored to navigating between UIC buildings on the East campus using footpaths. Although this implementation does not include graphical display capabilities, it effectively handles map loading, graph construction, and computation of the shortest weighted paths between two points.
@@ -29,6 +29,11 @@ To build and run the application, follow the instructions provided by the makefi
 - Compile the Application**: Execute `make all` or simply `make` to build the application. This command compiles all necessary source files to create the executable.
 - Run the Application**: Once compiled, launch the application by entering `./application` in the terminal.
 - Clean the Build**: To remove all compiled files and clean your build environment, use the command `make clean`. This will delete all object files and the executable, preparing for a fresh compilation.
+
+## Code Availability
+
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
+
 
 ## Contributions
 The contributions to this project are specific to `application.cpp` for the application logic and `graph.h` for the data structure used to manage the navigation graph.
